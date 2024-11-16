@@ -1,0 +1,4 @@
+Flask
+strawberry-graphql[debug-server]
+pytest
+pytest-asyncio
